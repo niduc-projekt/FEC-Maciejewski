@@ -1,6 +1,7 @@
 # Projekt z Niezawodności i Diagnostyki Układów Cyforwych 
 Prowadzący: Henryk Maciejewski Sr TN 7:30
-Grupa projektowa:
+
+# Grupa projektowa:
 
 | Imię i nazwisko | Indeks |
 | --------------  | -----  |

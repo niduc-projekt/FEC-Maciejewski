@@ -3,9 +3,9 @@ Prowadzący: Henryk Maciejewski Sr TN 7:30
 Grupa projektowa:
 |Imię i nazwisko|Indeks|
 |---------------|------|
-|Filip Gajewski|236597|
+|Filip Gajewski |236597|
 |Andrzej Gierlak|236411|
-|Jan Wawruszczak| ???|
+|Jan Wawruszczak| ???  |
 
 # Temat: Transmisja w systemie FEC (Forward Error Correctioin)
 

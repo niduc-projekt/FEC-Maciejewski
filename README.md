@@ -6,11 +6,7 @@ Grupa projektowa:
 | --------------  | -----  |
 | Filip Gajewski  | 236597 |
 | Andrzej Gierlak | 236411 |
-| Jan Wawruszczak | ???    |
-
-| Default | Left  | Right | Center |
-| ------- | :---- | ----: | :----: |
-| cell1   | cell2 | cell3 | cell4  |
+| Jan Wawruszczak | 241344 |
 
 # Temat: Transmisja w systemie FEC (Forward Error Correctioin)
 

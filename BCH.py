@@ -3,7 +3,7 @@ import os
 import random
 import numpy
 
-from fromBitsStringToBytes import convBitsToBytes
+from dataConverterForBCH import convBitsToBytes
 
 
 class BCH:
@@ -70,3 +70,4 @@ if (not blad):
 
 # print(numpy.array(bytearray(data)))
 print(data_decoded)
+convIntListToBinaryString(data_decoded)

@@ -2,7 +2,7 @@ from hamming import encode, decode, syndrome, correct, str_to_bin
 import itertools
 import numpy as np
 
-input = '1010101010101010101111101011'#przykladowe wejscie, ciagi nie musza byc wielokrotnoscia 8
+input = '101010101010101010111110'#przykladowe wejscie
 
 def zakoduj(input):#input jako string 0 i 1, funkcja koduje i przygotowuje dane wyjsciowe do przejscia przez kanal
     binar_input = str_to_bin(input)
